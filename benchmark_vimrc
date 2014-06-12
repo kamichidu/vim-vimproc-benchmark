@@ -1,0 +1,2 @@
+set cpo&vim
+set runtimepath=./vimproc.vim/
